@@ -1,6 +1,6 @@
 # Full Stack Data Scientist
 
-The idea behind this whole account would be to create a blog taking my data enthusiasts on a journey to becoming full stack data scientists. In this digital era, where data is growing exponentially and businesses are increasingly relying on data-driven decision-making, the role of a data scientist has become more critical than ever. Today, I invite you to join me as we explore the path to becoming a versatile data scientist capable of handling the entire data science tasks.
+The idea behind this whole repository would be to create a repository taking my data enthusiasts on a journey to becoming full stack data scientists. In this digital era, where data is growing exponentially and businesses are increasingly relying on data-driven decision-making, the role of a data scientist has become more critical than ever. Today, I invite you to join me as we explore the path to becoming a versatile data scientist capable of handling the entire data science tasks.
 
 The Journey will be divided into several sections, each section will be from beginner to advanced level. The sections I’ll be covering and focusing on will be as follows:
 
